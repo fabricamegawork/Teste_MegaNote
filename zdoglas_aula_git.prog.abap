@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZDOGLAS_AULA_GIT.
 
-DATA: gv_variavel TYPE c.
+DATA: gv_var1 TYPE c,
+      gv_var2 TYPE c.
